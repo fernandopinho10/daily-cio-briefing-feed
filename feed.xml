@@ -2,9 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
   <title>Daily CIO Briefing</title>
-  <itunes:author>Fernando Pinho</itunes:author><itunes:owner><itunes:name>Fernando Pinho</itunes:name><itunes:email>carol.goldenstein@gmail.com</itunes:email></itunes:owner><description>What every CIO needs to know, in about seven minutes. Cybersecurity, enterprise AI, cloud infrastructure, and IT leadership news — every morning. Hosted by Carol.
-
-AI Generated</description>
+  <itunes:author>Fernando Pinho</itunes:author><itunes:owner><itunes:name>Fernando Pinho</itunes:name><itunes:email>carol.goldenstein@gmail.com</itunes:email></itunes:owner><description>What every CIO needs to know, in about seven minutes. Daily briefing on cybersecurity, enterprise AI, cloud infrastructure, and IT leadership — for CIOs, CISOs, and technology executives. New episodes every morning. Follow the show so you never miss the stories that matter to your board. Hosted by Carol.</description>
   <language>en</language>
   <itunes:explicit>false</itunes:explicit>
   <atom:link href="https://fernandopinho10.github.io/daily-cio-briefing-feed/feed.xml" rel="self" type="application/rss+xml" />
@@ -86,6 +84,16 @@ AI Generated</description>
     <guid isPermaLink="false">ep-eaafdb53-852e-4b89-aab0-c88c96f904c8</guid>
     <pubDate>Sat, 03 Oct 2026 11:32:36 +0000</pubDate>
     <itunes:duration>484</itunes:duration>
+  </item>
+  <item>
+    <title>Daily CIO Briefing — Trailer</title>
+    <itunes:episodeType>trailer</itunes:episodeType><description>What every CIO needs to know, in about seven minutes. Meet Carol and the Daily CIO Briefing: cybersecurity, enterprise AI, cloud infrastructure, and IT leadership news, every morning.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-f09e14dd-cf83-4918-89be-77dc7a79de1e.mp3" length="309541" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-f09e14dd-cf83-4918-89be-77dc7a79de1e</guid>
+    <pubDate>Sat, 03 Oct 2026 18:01:26 +0000</pubDate>
+    <itunes:duration>38</itunes:duration>
   </item>
 </channel>
 </rss>
