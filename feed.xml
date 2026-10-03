@@ -62,5 +62,30 @@ AI Generated</description>
     <pubDate>Fri, 02 Oct 2026 11:36:23 +0000</pubDate>
     <itunes:duration>515</itunes:duration>
   </item>
+  <item>
+    <title>AI Ransomware Wipes Azure in Seven Minutes, AWS Pledges $1 Billion to Data-Center Towns | Daily CIO Briefing — Oct 3, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Today: the agentic ransomware operation JadePuffer that wiped more than one hundred Azure storage accounts in seven minutes; a ransomware hit on Japan's largest railway, Keio Corporation; the Warlock gang still exploiting Microsoft SharePoint; AWS's one-billion-dollar pledge to the towns hosting its data centers; KPMG's finding that sixty-two percent of large enterprises are deploying AI agents while ninety-three percent blew past AI budgets; CoreWeave's enterprise push with Forge and Nvidia Vera; plus what to watch — the Hawley-Murphy AI liability bill, FTC subpoenas, and the September jobs report.
+
+Chapters:
+00:03 Welcome
+00:16 Today's rundown
+00:47 JadePuffer: agentic ransomware wipes Azure in seven minutes
+01:37 Ransomware hits Japan's largest railway
+02:16 Warlock exploits SharePoint zero-days
+02:41 AWS pledges $1B to data-center communities
+03:34 KPMG: 62% of large enterprises deploy AI agents
+04:24 CoreWeave's enterprise push with Forge and Nvidia Vera
+05:04 Hawley-Murphy bill: AI agent hacking liability
+05:57 What to watch
+06:21 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-eaafdb53-852e-4b89-aab0-c88c96f904c8.mp3" length="3872293" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-eaafdb53-852e-4b89-aab0-c88c96f904c8</guid>
+    <pubDate>Sat, 03 Oct 2026 11:32:36 +0000</pubDate>
+    <itunes:duration>484</itunes:duration>
+  </item>
 </channel>
 </rss>
