@@ -95,5 +95,30 @@ AI Generated</description>
     <pubDate>Sat, 03 Oct 2026 18:01:26 +0000</pubDate>
     <itunes:duration>38</itunes:duration>
   </item>
+  <item>
+    <title>Trump's Data Center Warning, UK Oversight of Cloud Giants | Daily CIO Briefing — Oct 4, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Today: President Trump warns at an Ohio rally that data centers turned away from the US will go to China, while backing a bill to stop them raising residential electricity costs; Britain places AWS, Microsoft, Google Cloud and Oracle under direct financial oversight for cloud services sold to banks; California's SB 690 wipes out thousands of web-tracking lawsuits retroactively; South Korean banks suffer a breach wave led by Shinhan Bank's twenty-five thousand customer records; Denmark's DTU loses two hundred thousand records with gaps in its audit trail; ServiceNow launches its AI-native Flow service desk; and a sixteen-year-old researcher gets into Microsoft's Titan analytics service.
+
+Chapters:
+00:05 Welcome
+00:16 Today's rundown
+00:37 Trump's data-center warning in Ohio
+01:21 UK puts cloud giants under direct oversight
+02:01 California kills the web-tracking lawsuit wave
+02:46 South Korean bank breach wave
+03:29 DTU: two hundred thousand records, unknown scope
+04:12 ServiceNow launches Flow
+04:46 A teenager inside Microsoft's analytics system
+05:28 What to watch
+06:03 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-db52a25d-ec1d-4814-a162-8ce423afcde5.mp3" length="3544741" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-db52a25d-ec1d-4814-a162-8ce423afcde5</guid>
+    <pubDate>Sun, 04 Oct 2026 10:30:32 +0000</pubDate>
+    <itunes:duration>443</itunes:duration>
+  </item>
 </channel>
 </rss>
