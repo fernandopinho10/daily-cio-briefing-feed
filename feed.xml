@@ -120,5 +120,29 @@ AI Generated</description>
     <pubDate>Sun, 04 Oct 2026 10:30:32 +0000</pubDate>
     <itunes:duration>443</itunes:duration>
   </item>
+  <item>
+    <title>Ransomware's Record Month, Gartner's Five CISO Actions | Daily CIO Briefing — Oct 5, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Today: Gartner's five actions every CISO should take before the end of 2026, starting with treating frontier AI as an insider risk; ransomware hits a record one thousand seventy-three victims in a single month as gangs shift to pure data theft; the JetBrains TeamCity flaw ransomware gangs are exploiting months after the patch, including a breach of JetBrains itself; a Dataiku survey finds eighty-one percent of CIOs have lost oversight of their own AI agents; Accenture warns enterprise AI token spending could nearly double on the Jevons paradox; and AWS and Azure launch a joint private multicloud interconnect.
+
+Chapters:
+00:05 Welcome
+00:22 Today's rundown
+00:49 Gartner's five CISO actions
+01:51 Ransomware's record August
+02:39 The TeamCity flaw ransomware loves
+03:29 CIOs losing track of AI agents
+04:20 AI token costs nearly doubling
+05:12 AWS and Azure's multicloud interconnect
+05:58 What to watch
+06:20 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-96903250-483e-4b03-ab6d-01a015099cdc.mp3" length="3643429" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-96903250-483e-4b03-ab6d-01a015099cdc</guid>
+    <pubDate>Mon, 05 Oct 2026 10:30:49 +0000</pubDate>
+    <itunes:duration>455</itunes:duration>
+  </item>
 </channel>
 </rss>
