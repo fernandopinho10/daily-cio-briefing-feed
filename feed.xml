@@ -144,5 +144,29 @@ AI Generated</description>
     <pubDate>Mon, 05 Oct 2026 10:30:49 +0000</pubDate>
     <itunes:duration>455</itunes:duration>
   </item>
+  <item>
+    <title>FBI's ShinyHunters Breach Fallout, Denmark's 8.8 Million Identity Breach | Daily CIO Briefing — Oct 6, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Today: the F B I removes an Accenture contractor after a missed patch on Oracle PeopleSoft let ShinyHunters steal thousands of employees' personal details; Denmark discloses that eight point eight million C P R identity records were pulled through a trusted company's legitimate access; the Texas attorney general puts the Oracle health breach at nearly twenty million people; Citrix patches a NetScaler zero-day under active attack with federal mitigations due October seventh; Microsoft rushes out an Exchange patch for a mailbox-reading privilege flaw; and New York City grills the big A I labs under oath over kill switches and whistleblower bounties.
+
+Chapters:
+00:05 Welcome
+00:28 Today's rundown
+01:04 FBI removes contractor after ShinyHunters breach
+02:03 Denmark's 8.8 million identity breach
+02:50 Oracle health breach: nearly 20 million affected
+03:40 Citrix NetScaler zero-day under active attack
+04:31 Emergency Microsoft Exchange patch
+05:16 New York City grills AI labs under oath
+06:13 What to watch
+06:33 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-beed5a7d-d309-4840-bd1a-4a4e4d4dc965.mp3" length="3965413" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-beed5a7d-d309-4840-bd1a-4a4e4d4dc965</guid>
+    <pubDate>Tue, 06 Oct 2026 10:30:37 +0000</pubDate>
+    <itunes:duration>495</itunes:duration>
+  </item>
 </channel>
 </rss>
