@@ -168,5 +168,30 @@ AI Generated</description>
     <pubDate>Tue, 06 Oct 2026 10:30:37 +0000</pubDate>
     <itunes:duration>495</itunes:duration>
   </item>
+  <item>
+    <title>OpenAI Watermarks ChatGPT for the EU, Memphis Erupts Over Musk's Data Centers | Daily CIO Briefing — Oct 7, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Today: OpenAI will watermark ChatGPT and Codex output for European Union users within weeks, as the EU AI Act's content-marking deadline approaches; a Memphis city council meeting erupts over Elon Musk's SpaceXAI Colossus data centers and a postponed moratorium vote; Spain's Aragon region pulls in more than sixty billion euros in data center investment led by Amazon; Meta and Microsoft cut internal reliance on Anthropic's Claude models to tame AI costs; the EU's AI Act comes under fire from lawmakers even as enforcement bites; and Italy's antitrust watchdog opens a probe into AI music startup Suno's terms of service.
+
+Chapters:
+00:05 Cold open: OpenAI watermarks ChatGPT
+00:11 Welcome
+00:17 Today's rundown
+00:50 OpenAI watermarking for the EU AI Act
+02:00 Memphis erupts over SpaceXAI's data centers
+03:01 Spain's Aragon: the 68-billion-dollar data center hub
+04:05 Meta and Microsoft cut their Anthropic reliance
+05:05 The EU AI Act comes under fire
+06:11 Italy probes AI music startup Suno
+06:59 What to watch
+07:53 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-94cdef7f-aa00-4091-bb0c-48d152a7fc1a.mp3" length="4945765" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-94cdef7f-aa00-4091-bb0c-48d152a7fc1a</guid>
+    <pubDate>Wed, 07 Oct 2026 10:31:03 +0000</pubDate>
+    <itunes:duration>618</itunes:duration>
+  </item>
 </channel>
 </rss>
