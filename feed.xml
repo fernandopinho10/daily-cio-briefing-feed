@@ -193,5 +193,30 @@ AI Generated</description>
     <pubDate>Wed, 07 Oct 2026 10:31:03 +0000</pubDate>
     <itunes:duration>618</itunes:duration>
   </item>
+  <item>
+    <title>AI Agents Run Wild Without Guardrails, Gigamon's Two-Billion-Dollar Sale | Daily CIO Briefing — Oct 8, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Today: AI agents are running wild in production and vendors from SailPoint to AppViewX to Netskope are racing to govern them; a critical 9.8 remote-code flaw lands in the LMCache AI inference layer; the federal deadline for the Citrix NetScaler zero day passes — check your builds and logs; Elliott and Siris explore a sale of network monitor Gigamon at more than two billion dollars; a global survey finds CIOs accountable for AI risks they cannot control; and ScottsMiracle-Gro names a new CIO with an SAP and AI mandate.
+
+Chapters:
+00:05 Cold open: the agent identity gap
+00:13 Welcome
+00:18 Today's rundown
+00:51 Agent identity security wave
+02:20 Critical flaw in LMCache
+03:12 Citrix NetScaler deadline day
+04:24 Gigamon's two-billion-dollar sale
+05:14 CIO accountability without authority
+06:10 New CIO at ScottsMiracle-Gro
+06:54 What to watch
+07:23 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-8fa5f753-df5b-4a52-b4d8-d383fd004d68.mp3" length="4395301" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-8fa5f753-df5b-4a52-b4d8-d383fd004d68</guid>
+    <pubDate>Thu, 08 Oct 2026 10:31:13 +0000</pubDate>
+    <itunes:duration>549</itunes:duration>
+  </item>
 </channel>
 </rss>
