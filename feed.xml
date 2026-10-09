@@ -218,5 +218,31 @@ AI Generated</description>
     <pubDate>Thu, 08 Oct 2026 10:31:13 +0000</pubDate>
     <itunes:duration>549</itunes:duration>
   </item>
+  <item>
+    <title>Cloud Ransomware Leaves 495 Organizations Dark, Google's Gemini Agent for Work | Daily CIO Briefing — Oct 9, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+A ransomware attack on Japan's IDCF Cloud leaves nearly five hundred organizations dark with data likely unrecoverable; Google Cloud launches the Gemini agent for work inside Workspace, Microsoft 365, and Slack; a critical Atlassian flaw draws live attacks within two hours of public analysis; Japan's data leak wave hits new highs through abused mobile APIs; and a global CIO survey says talent, not budget, is the real AI bottleneck.
+
+Chapters:
+00:05 Cold open: your provider's disaster is your disaster
+00:19 Welcome
+00:24 Today's rundown
+00:59 IDCF Cloud ransomware: 495 organizations dark
+01:54 Google's Gemini agent for work
+02:54 Atlassian flaw exploited within two hours
+03:59 Japan's data leak wave and the Metabase flaw
+05:13 Logicalis 2026 CIO Report: talent is the bottleneck
+06:12 MonsterCloud owner charged with wire fraud
+07:12 Anthropic's Critical Infrastructure Defense Program
+07:51 What to watch
+08:19 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-c124ec51-c550-4760-bdef-44375dbbb8ea.mp3" length="4906021" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-c124ec51-c550-4760-bdef-44375dbbb8ea</guid>
+    <pubDate>Fri, 09 Oct 2026 10:31:39 +0000</pubDate>
+    <itunes:duration>613</itunes:duration>
+  </item>
 </channel>
 </rss>
