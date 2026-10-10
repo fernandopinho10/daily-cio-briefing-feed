@@ -244,5 +244,30 @@ AI Generated</description>
     <pubDate>Fri, 09 Oct 2026 10:31:39 +0000</pubDate>
     <itunes:duration>613</itunes:duration>
   </item>
+  <item>
+    <title>Chaos Ransomware Claims 1,500 GB from Astrana Health, AI-Automated Bank Hacks in South Korea | Daily CIO Briefing — Oct 10, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+A ransomware group claims it walked away with fifteen hundred gigabytes of patient data from Astrana Health after the company refused to pay; South Korea's financial regulator calls a crisis meeting over AI-automated bank breaches; California's attorney general signals that AI agent containment failures are the deployer's liability; new CultureAI research finds eighty-one percent of workplace AI activity runs outside enterprise control; Termite ransomware claims a breach at dental software provider iDentalSoft; and new data projects agentic AI spending past two hundred billion dollars while more than forty percent of projects face cancellation by late next year.
+
+Chapters:
+00:05 Cold open: ransomware claims fifteen hundred gigabytes
+00:16 Welcome
+00:22 Today's rundown
+00:56 Astrana Health ransomware claim
+01:48 AI-automated bank breaches in South Korea
+02:29 California AG: agent containment is your liability
+02:51 81 percent of workplace AI outside enterprise control
+03:31 iDentalSoft ransomware claim
+04:03 Agentic AI spending vs governance gap
+04:41 What to watch
+05:23 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-af232c77-274d-4b5f-8ff0-470d8fd7210b.mp3" length="3286309" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-af232c77-274d-4b5f-8ff0-470d8fd7210b</guid>
+    <pubDate>Sat, 10 Oct 2026 10:30:14 +0000</pubDate>
+    <itunes:duration>410</itunes:duration>
+  </item>
 </channel>
 </rss>
