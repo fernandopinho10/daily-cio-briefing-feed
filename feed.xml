@@ -269,5 +269,30 @@ AI Generated</description>
     <pubDate>Sat, 10 Oct 2026 10:30:14 +0000</pubDate>
     <itunes:duration>410</itunes:duration>
   </item>
+  <item>
+    <title>AI Agents Outrun Identity Security, Cisco and SonicWall Zero-Days Hit the KEV List | Daily CIO Briefing — Oct 11, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+AI agents are running wild in the enterprise — 79% of companies have them in production, but only 2% have identity security built to govern them. This episode covers the 40-to-1 identity gap behind agentic AI, Cisco and SonicWall zero-days landing on CISA's emergency patch list, an Atlassian flaw that drew attacks within two hours, the UK privacy watchdog's data promises from ten AI developers, the "orchestration gap" behind 183 disconnected AI tools, CIO accountability outpacing control, Google's new Gemini Agent, and a record weekend for data center buildout.
+
+Chapters:
+00:05 — Cold open and rundown
+00:46 — The identity security gap behind your AI agents
+01:28 — Cisco and SonicWall zero-days hit CISA's KEV list
+02:17 — Atlassian flaw attacked within two hours
+02:58 — UK ICO secures AI data promises from ten developers
+03:51 — The orchestration gap: 183 AI tools, no connective tissue
+04:38 — CIO accountability outpaces control
+05:11 — Google's Gemini Agent and the Nordic data center bet
+05:47 — Data centers go nuclear: Google and AWS power plays
+06:16 — What to watch this week
+06:31 — Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-97336106-9b52-43a9-980f-9397a1f702f1.mp3" length="3988837" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-97336106-9b52-43a9-980f-9397a1f702f1</guid>
+    <pubDate>Sun, 11 Oct 2026 10:31:00 +0000</pubDate>
+    <itunes:duration>498</itunes:duration>
+  </item>
 </channel>
 </rss>
