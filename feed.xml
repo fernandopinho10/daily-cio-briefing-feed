@@ -316,5 +316,28 @@ AI Generated</description>
     <pubDate>Mon, 12 Oct 2026 10:32:00 +0000</pubDate>
     <itunes:duration>490</itunes:duration>
   </item>
+  <item>
+    <title>Microsoft Bets Big on Its Own AI Chips, Nvidia Standardizes the AI Factory | Daily CIO Briefing — Oct 13, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Microsoft bets its AI future on its own silicon, announcing multi-gigawatt Maia chip deployments starting in 2027, while Nvidia and the industry converge on open standards for building AI factories. October's Patch Tuesday arrives eerily quiet after September's record, even as Windows 11 24H2 reaches its final update. Also covered: corporate AI spending doubling to 3.3% of revenue with 80% sitting outside the IT budget, Anthropic and OpenAI pushing deeper into the enterprise, fresh AI governance numbers, and what to watch this week.
+
+Chapters:
+00:05 — Cold open and rundown
+00:35 — Microsoft's Maia silicon bet
+01:18 — Nvidia and the AI factory standards
+02:06 — October Patch Tuesday
+03:01 — AI spending moves outside IT
+03:52 — Anthropic and OpenAI's enterprise push
+04:45 — AI governance by the numbers
+05:38 — What to watch
+06:17 — Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-c36396f6-c055-4090-9f3f-88ff8a5bfe3c.mp3" length="3706213" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-c36396f6-c055-4090-9f3f-88ff8a5bfe3c</guid>
+    <pubDate>Tue, 13 Oct 2026 10:30:51 +0000</pubDate>
+    <itunes:duration>463</itunes:duration>
+  </item>
 </channel>
 </rss>
