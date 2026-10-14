@@ -339,5 +339,29 @@ AI Generated</description>
     <pubDate>Tue, 13 Oct 2026 10:30:51 +0000</pubDate>
     <itunes:duration>463</itunes:duration>
   </item>
+  <item>
+    <title>Microsoft's Record Patch Tuesday, Ivanti Zero-Day Under Active Attack | Daily CIO Briefing — Oct 14, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Microsoft's October Patch Tuesday turns out to be the largest ever at one thousand four hundred eleven fixes, with an actively exploited Windows Shell flaw under a Friday federal deadline, and a new Risk Cohorts triage framework. Ivanti discloses a no-credential V P N zero-day being used to steal data right now. Google launches Gemini four Argon globally. Pluto Security emerges from stealth with forty-two million dollars for the A I workspace. New data shows only five percent of companies believe their data is A I ready. Rocket Software buys Geniez A I for the mainframe. And a Fortanix survey finds sixty-one percent of regulated firms feed sensitive data to public cloud A I despite deep concerns.
+
+Chapters:
+00:05 — Cold open and rundown
+00:34 — Microsoft's record Patch Tuesday
+01:27 — Ivanti Connect Secure zero-day
+02:18 — Google launches Gemini 4 Argon
+02:55 — Pluto Security raises $42M
+03:27 — AI maturity: 5% data-ready
+04:07 — Rocket Software acquires Geniez AI
+04:32 — The AI privacy paradox
+05:15 — What to watch
+05:41 — Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-7fa6c764-320f-4fee-983b-423afbce8dfb.mp3" length="4014757" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-7fa6c764-320f-4fee-983b-423afbce8dfb</guid>
+    <pubDate>Wed, 14 Oct 2026 10:31:12 +0000</pubDate>
+    <itunes:duration>501</itunes:duration>
+  </item>
 </channel>
 </rss>
