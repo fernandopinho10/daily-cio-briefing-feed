@@ -363,5 +363,29 @@ AI Generated</description>
     <pubDate>Wed, 14 Oct 2026 10:31:12 +0000</pubDate>
     <itunes:duration>501</itunes:duration>
   </item>
+  <item>
+    <title>CISA's Ivanti Patch Deadline Looms, Financial Watchdog Tightens the Leash on AI Agents | Daily CIO Briefing — Oct 15, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+The federal deadline to patch Ivanti's actively exploited Connect Secure zero-day lands tomorrow, with honeypots logging over a hundred exploit attempts, and a Palo Alto Networks management flaw joins the watch list. The global financial watchdog demands real human oversight of AI agents, eight states sue OpenAI in a first-of-its-kind bipartisan action, Workday acquires C1.ai and deepens its Anthropic partnership, a Morgan Stanley CIO survey shows hardware prices eating 2027 budget growth, and Info-Tech Research Group rebrands as Infotech with a new CIO Analytics platform.
+
+Chapters:
+00:05 — Cold open and rundown
+00:42 — Ivanti patch deadline tomorrow
+01:35 — Palo Alto management interface flaw
+01:59 — FSB demands human oversight of AI agents
+02:40 — Eight states sue OpenAI
+03:15 — Workday acquires C1.ai, deepens Anthropic partnership
+03:52 — CIO spending plans and hardware inflation
+04:41 — Infotech rebrands, launches CIO Analytics
+05:18 — What to watch
+05:41 — Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-076aa52e-5aa7-4971-9b46-88859f864713.mp3" length="3903781" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-076aa52e-5aa7-4971-9b46-88859f864713</guid>
+    <pubDate>Thu, 15 Oct 2026 10:30:34 +0000</pubDate>
+    <itunes:duration>487</itunes:duration>
+  </item>
 </channel>
 </rss>
