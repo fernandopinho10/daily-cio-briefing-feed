@@ -412,5 +412,31 @@ AI Generated</description>
     <pubDate>Fri, 16 Oct 2026 11:37:24 +0000</pubDate>
     <itunes:duration>487</itunes:duration>
   </item>
+  <item>
+    <title>FTC Puts OpenAI and Anthropic on Notice, Oracle Database@AWS Goes Live | Daily CIO Briefing — Oct 17, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+The FTC opened its first formal investigation into OpenAI and Anthropic, turning AI safety into a compliance question. Plus: Oracle Database@AWS goes generally available, Google takes its cloud licensing fight with Microsoft to the FTC, AWS and Google Cloud partner on multicloud networking, a CIO survey says hardware spending growth is price-driven not AI-driven, Oracle wins an $88.1M Air Force cloud contract, and a fresh crop of ransomware claims to close the week.
+
+Chapters:
+00:05 Intro and cold open
+00:18 Rundown
+00:43 FTC puts OpenAI and Anthropic on notice
+01:50 Oracle Database@AWS goes live
+02:28 Google vs Microsoft cloud fight at the FTC
+03:06 AWS and Google Cloud multicloud networking
+03:40 Morgan Stanley CIO survey: hardware budgets
+04:20 Oracle wins Air Force cloud contract
+04:54 Tercera 30 adds AI labs
+05:27 Ransomware blotter
+06:02 What to watch
+06:22 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-3cf4c5e5-c6f3-4255-857e-a61706a2bc0f.mp3" length="3619962" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-3cf4c5e5-c6f3-4255-857e-a61706a2bc0f</guid>
+    <pubDate>Sat, 17 Oct 2026 10:30:47 +0000</pubDate>
+    <itunes:duration>452</itunes:duration>
+  </item>
 </channel>
 </rss>
