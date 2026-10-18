@@ -438,5 +438,32 @@ AI Generated</description>
     <pubDate>Sat, 17 Oct 2026 10:30:47 +0000</pubDate>
     <itunes:duration>452</itunes:duration>
   </item>
+  <item>
+    <title>Japan Cloud Ransomware Hits 495 Organizations, ServiceNow Launches AI Passport | Daily CIO Briefing — Oct 18, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+A ransomware strike on one Japanese cloud provider took down 495 companies and governments at once — and Japan is declaring a cybersecurity emergency. Plus: ServiceNow's new AI Passport for runtime agent governance, enterprise cloud spending jumping $7.5 billion in a quarter, Boeing splitting its billion-dollar cloud modernization across Microsoft, Google and AWS, the UK watchdog's mixed verdict on year two of voluntary cloud competition, data center demand doubling in six months, and Oracle and Google joining the Pentagon's multibillion-dollar cloud race.
+
+Chapters:
+00:05 Intro and cold open
+00:18 Rundown
+00:57 Japan cloud ransomware: IDC Frontier
+01:46 Japan cybersecurity emergency
+02:17 ServiceNow AI Passport
+03:02 Cloud spend jumps $7.5bn
+03:42 Boeing goes multicloud
+04:16 UK CMA cloud review
+04:57 Data center demand doubles
+05:34 Pentagon JWCC: Oracle and Google join
+06:08 Ransomware blotter
+06:43 What to watch
+07:21 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-baef56a6-14fd-44f5-a35c-dd749ce8574a.mp3" length="4420261" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-baef56a6-14fd-44f5-a35c-dd749ce8574a</guid>
+    <pubDate>Sun, 18 Oct 2026 10:31:24 +0000</pubDate>
+    <itunes:duration>552</itunes:duration>
+  </item>
 </channel>
 </rss>
