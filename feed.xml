@@ -491,5 +491,30 @@ AI Generated</description>
     <pubDate>Mon, 19 Oct 2026 10:30:49 +0000</pubDate>
     <itunes:duration>462</itunes:duration>
   </item>
+  <item>
+    <title>DHS Bans DeepSeek From Federal Systems, Ivanti's Third-Year Zero-Day | Daily CIO Briefing — Oct 20, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Washington orders DeepSeek removed from all federal civilian systems, with the ban reaching third-party vendor products built on its components. Plus: Ivanti patches its third straight year of Connect Secure zero-days, the FTC subpoenas AI companies over security breaches, a subcontractor hack at NEC leaks data at three client companies, Microsoft walks away from a UK data center because the grid can't power it, Gartner reveals only 13% of CIOs see significant AI value, and OVHcloud turns cash-flow positive.
+
+Chapters:
+00:05 Intro and cold open
+00:27 Rundown
+00:48 DHS bans DeepSeek from federal systems
+01:28 Ivanti's third-year zero-day
+02:18 FTC subpoenas AI companies
+03:01 NEC subcontractor hack
+03:38 Microsoft's UK power problem
+04:29 Gartner: only 13% see real AI value
+05:20 OVHcloud turns cash-flow positive
+05:52 What to watch
+06:23 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-38773667-a15a-414a-b828-1d73861ff1ef.mp3" length="3800293" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-38773667-a15a-414a-b828-1d73861ff1ef</guid>
+    <pubDate>Tue, 20 Oct 2026 10:32:09 +0000</pubDate>
+    <itunes:duration>475</itunes:duration>
+  </item>
 </channel>
 </rss>
