@@ -516,5 +516,29 @@ AI Generated</description>
     <pubDate>Tue, 20 Oct 2026 10:32:09 +0000</pubDate>
     <itunes:duration>475</itunes:duration>
   </item>
+  <item>
+    <title>Critical PHP Flaws Drop Today, SafePay Ransomware Hits 600 Organizations | Daily CIO Briefing — Oct 21, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Two critical PHP flaws get patched this afternoon, with European officials warning companies unable to patch to take sites offline, and CISA and the FBI warn that the SafePay ransomware gang has hit over 600 organizations while deliberately destroying backups. Plus: big patch bundles from Atlassian and Oracle, a massive agentic AI push from Cognizant and Google Cloud, new data showing 70 percent of enterprises are beyond AI experimentation, and a sobering survey on shadow AI and agent governance gaps.
+
+Chapters:
+00:05 Intro and cold open
+00:30 Rundown
+01:00 PHP critical flaws
+02:18 SafePay ransomware advisory
+03:13 Atlassian and Oracle patch bundles
+03:52 Cognizant plus Google Cloud agentic AI push
+04:46 Creatio enterprise AI adoption report
+05:43 UAE shadow AI study
+06:34 What to watch
+07:03 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-9748e040-51d8-4a90-b795-a4f24469d369.mp3" length="4203685" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-9748e040-51d8-4a90-b795-a4f24469d369</guid>
+    <pubDate>Wed, 21 Oct 2026 12:31:25 +0000</pubDate>
+    <itunes:duration>525</itunes:duration>
+  </item>
 </channel>
 </rss>
