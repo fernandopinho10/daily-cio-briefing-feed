@@ -565,5 +565,30 @@ AI Generated</description>
     <pubDate>Thu, 22 Oct 2026 21:35:00 +0000</pubDate>
     <itunes:duration>559</itunes:duration>
   </item>
+  <item>
+    <title>China-Linked AI Agents Hit 2,250 Microsoft Tenants, PHP2Shell Exploited Before Patches Existed | Daily CIO Briefing — Oct 24, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+A China-aligned hacking group ran an autonomous AI agent through the ConnectWise supply chain compromise, striking more than 2,250 Microsoft 365 tenants at machine speed. Plus: PHP2Shell is being exploited at scale with attacks starting four days before the patches existed, Quest Diagnostics discloses a patient-data breach in an eight-K filing, urgent patches for GitLab, Fortinet and Node.js, Cognizant launches an AI governance platform, CoreWeave rolls out enterprise security controls, and Nutanix teams with Netris on multitenant GPU infrastructure.
+
+Chapters:
+00:05 Intro and cold open
+00:25 Rundown
+00:53 Storm-0940: agentic AI supply chain attack
+01:38 PHP2Shell: exploited before patches existed
+02:27 Quest Diagnostics eight-K breach
+03:19 Patch pile-up: GitLab, Fortinet, Node.js
+04:01 Cognizant launches AI Nexus
+04:39 CoreWeave enterprise security framework
+05:18 Nutanix and Netris multitenant GPU stack
+05:55 What to watch
+06:16 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-6167c0b6-46fa-429b-b82a-5840660f88be.mp3" length="4191973" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-6167c0b6-46fa-429b-b82a-5840660f88be</guid>
+    <pubDate>Fri, 23 Oct 2026 21:36:57 +0000</pubDate>
+    <itunes:duration>523</itunes:duration>
+  </item>
 </channel>
 </rss>
