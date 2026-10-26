@@ -640,5 +640,30 @@ AI Generated</description>
     <pubDate>Sun, 25 Oct 2026 21:31:04 +0000</pubDate>
     <itunes:duration>476</itunes:duration>
   </item>
+  <item>
+    <title>Ransomware Gangs Deploy AI Agents, LiteLLM Supply-Chain Attack | Daily CIO Briefing — Oct 27, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Ransomware affiliates are now deploying AI agents to break into companies, a poisoned LiteLLM update is stealing cloud and AI credentials, and critical PHP flaws face mass exploitation while nearly all public servers remain unpatched. Plus: the joint SafePay advisory, Cloudera's warning on the cost of scaling AI, Fortinet's firewall-level AI guardrails, and a two trillion dollar cloud backlog ahead of Big Tech earnings.
+
+Chapters:
+00:05 Cold open and intro
+00:20 Rundown
+00:41 Ransomware gangs deploy AI agents
+01:10 LiteLLM supply-chain attack
+01:42 PHP mass exploitation and GitLab critical flaw
+02:24 SafePay joint advisory
+02:58 Cloudera and the AI scale trap
+03:34 Fortinet AI security for firewalls
+04:03 Two trillion dollar cloud backlog
+04:36 What to watch
+05:06 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-844bca2c-5c53-46c9-a7bf-660efd3c8f1f.mp3" length="3649573" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-844bca2c-5c53-46c9-a7bf-660efd3c8f1f</guid>
+    <pubDate>Mon, 26 Oct 2026 21:30:58 +0000</pubDate>
+    <itunes:duration>456</itunes:duration>
+  </item>
 </channel>
 </rss>
