@@ -665,5 +665,30 @@ AI Generated</description>
     <pubDate>Mon, 26 Oct 2026 21:30:58 +0000</pubDate>
     <itunes:duration>456</itunes:duration>
   </item>
+  <item>
+    <title>GMO's Fifty Million Dollar Extortion Standoff, Big Tech Earnings Day | Daily CIO Briefing — Oct 28, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+GMO Internet refused a fifty million dollar extortion demand and watched attackers begin publishing customer data, while Microsoft and Alphabet report earnings on the biggest cloud day of the year. Plus: IBM gives AI agents verified identities, Gartner shows the C-suite split on AI strategy, Oracle teams with Cerebras on fast inference, industrial AI outruns its safety checks, and Dayforce brings agents to software implementation.
+
+Chapters:
+00:05 Cold open and intro
+00:19 Rundown
+00:42 GMO fifty million dollar extortion
+01:38 Big Tech earnings day
+02:27 IBM agent identity
+03:21 Gartner C-suite split
+04:08 Oracle and Cerebras inference
+04:45 IFS industrial AI controls
+05:34 Dayforce agentic implementation
+06:08 What to watch
+06:23 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-123e6bfc-3682-49ac-a369-60cbc2e81a34.mp3" length="3620005" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-123e6bfc-3682-49ac-a369-60cbc2e81a34</guid>
+    <pubDate>Tue, 27 Oct 2026 21:32:08 +0000</pubDate>
+    <itunes:duration>452</itunes:duration>
+  </item>
 </channel>
 </rss>
