@@ -739,5 +739,29 @@ AI Generated</description>
     <pubDate>Thu, 29 Oct 2026 21:33:26 +0000</pubDate>
     <itunes:duration>620</itunes:duration>
   </item>
+  <item>
+    <title>Ransomware Hits a Rocket Supplier, Microsoft's Patch-Now Warning | Daily CIO Briefing — Oct 31, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+A ransomware group claims it stole rocket blueprints from a defense and space supplier, Microsoft urges urgent patching for actively exploited flaws, and big tech's AI spending topped two hundred billion dollars in a single quarter. Plus: OpenAI's new enterprise privacy controls, Cognizant's twenty-five thousand person OpenAI bench, and Europe's AI rules putting shadow AI on the board agenda.
+
+Chapters:
+00:05 Cold open and intro
+00:19 Rundown
+00:41 Ransomware claim hits rocket supplier Rapid Manufacturing
+01:21 Microsoft's patch-now warning: PHP2Shell, Brotli, eMudhra
+02:09 Big tech's two hundred billion dollar AI quarter
+03:00 OpenAI Private Intelligence for sensitive workloads
+03:42 Cognizant builds a twenty-five thousand person OpenAI team
+04:28 EU AI Act and the shadow AI gap
+05:24 What to watch
+05:44 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-ea36fb8f-9e18-4c03-8666-62790e786043.mp3" length="3418021" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-ea36fb8f-9e18-4c03-8666-62790e786043</guid>
+    <pubDate>Sat, 31 Oct 2026 10:29:35 +0000</pubDate>
+    <itunes:duration>427</itunes:duration>
+  </item>
 </channel>
 </rss>
