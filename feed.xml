@@ -835,5 +835,29 @@ AI Generated</description>
     <pubDate>Tue, 03 Nov 2026 11:30:15 +0000</pubDate>
     <itunes:duration>463</itunes:duration>
   </item>
+  <item>
+    <title>CrowdStrike's AI Kill Switch, Enterprise AI Hits 177 Billion Dollars | Daily CIO Briefing — Nov 4, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+CrowdStrike launches a kill switch for AI agents and agrees to buy Fiddler and Dreadnode, enterprise AI spending jumps to $177 billion on the back of agents, and a survey of 300 CIOs finds deployment racing ahead of readiness. Plus: OpenAI arrives on Google Cloud, attackers compromise two dozen Palo Alto firewalls, and Google flips AI in schools to opt-in.
+
+Chapters:
+00:05 Cold open and intro
+00:20 Rundown
+00:53 CrowdStrike's AI kill switch and two acquisitions
+02:01 Enterprise AI spending hits 177 billion dollars
+03:06 Accenture: deployment outruns readiness
+03:59 OpenAI on Google Cloud
+04:43 Palo Alto firewalls compromised, patch now
+05:33 Google flips AI in schools to opt-in
+06:09 What to watch
+06:26 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-1c8eac11-0904-4e77-ab33-e37931d70d40.mp3" length="3760741" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-1c8eac11-0904-4e77-ab33-e37931d70d40</guid>
+    <pubDate>Wed, 04 Nov 2026 11:29:57 +0000</pubDate>
+    <itunes:duration>470</itunes:duration>
+  </item>
 </channel>
 </rss>
