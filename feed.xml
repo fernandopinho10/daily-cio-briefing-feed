@@ -883,5 +883,30 @@ AI Generated</description>
     <pubDate>Thu, 05 Nov 2026 11:33:23 +0000</pubDate>
     <itunes:duration>376</itunes:duration>
   </item>
+  <item>
+    <title>SSHole Hits OpenSSH, AI Regulation Tightens After Midterms | Daily CIO Briefing — Nov 6, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+A serious OpenSSH flaw nicknamed SSHole hits Alpine Linux hardest, and the fix landed just yesterday. Plus: Accenture's survey of three hundred CIOs confirms AI deployment is outrunning real value, a supply chain attack pushed a backdoor through cPGuard's own update channel, the US midterms point to tougher AI regulation while China fast-tracks a full lifecycle AI law, a critical Android flaw needs no user interaction at all, and the AI power crunch has data centers running on retired jet engines.
+
+Chapters:
+00:05 Cold open and intro
+00:20 Rundown
+00:51 SSHole: OpenSSH auth bypass
+01:47 Accenture CIO Pulse: AI deployment outruns value
+02:50 cPGuard supply chain attack
+03:50 Midterms: tougher AI regulation ahead
+04:43 China fast-tracks full-lifecycle AI law
+05:33 Android critical RCE, no user interaction
+06:23 AI power crunch: jet engines and Drax
+07:22 What to watch
+07:44 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-9e8f9eab-4aa4-4006-afa1-755888dd9482.mp3" length="4496293" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-9e8f9eab-4aa4-4006-afa1-755888dd9482</guid>
+    <pubDate>Fri, 06 Nov 2026 11:31:40 +0000</pubDate>
+    <itunes:duration>562</itunes:duration>
+  </item>
 </channel>
 </rss>
