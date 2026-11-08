@@ -934,5 +934,30 @@ AI Generated</description>
     <pubDate>Sat, 07 Nov 2026 11:30:56 +0000</pubDate>
     <itunes:duration>578</itunes:duration>
   </item>
+  <item>
+    <title>SSHole Exploited Within Hours, Chainalysis Breach Exposes Every User | Daily CIO Briefing — Nov 8, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+OpenSSH's "SSHole" flaw is being exploited within hours of disclosure, and Chainalysis says an agentic attack exposed every user's credentials. Plus: SonicWall patches a flaw that bypasses SAML multi-factor authentication, Accenture finds 64% of CIOs are scaling AI but only 7% are optimizing it, the hyperscalers post record cloud growth while spending record sums, Snowflake builds a governance layer for AI agents, and regulators turn their attention to AI training data.
+
+Chapters:
+00:05 Cold open and intro
+00:22 Rundown
+00:58 SSHole: patch your Alpine and musl systems
+01:52 Chainalysis breach exposes every user's credentials
+02:35 SonicWall flaw bypasses SAML MFA
+03:08 Accenture: scaling AI, not optimizing it
+04:08 Hyperscalers grow at record rates, investors still flinch
+05:14 Snowflake governs AI agents
+05:57 Regulation: AI training data in the crosshairs
+06:47 What to watch
+07:23 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-ba6a08bf-5e19-4cfb-b614-0c12e590dab6.mp3" length="4854949" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-ba6a08bf-5e19-4cfb-b614-0c12e590dab6</guid>
+    <pubDate>Sun, 08 Nov 2026 11:31:45 +0000</pubDate>
+    <itunes:duration>606</itunes:duration>
+  </item>
 </channel>
 </rss>
