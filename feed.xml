@@ -959,5 +959,30 @@ AI Generated</description>
     <pubDate>Sun, 08 Nov 2026 11:31:45 +0000</pubDate>
     <itunes:duration>606</itunes:duration>
   </item>
+  <item>
+    <title>Nvidia Board Probes Jensen Huang, Salesforce AI Coworker Usage Jumps 21 Times | Daily CIO Briefing — Nov 9, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Nvidia's board opens an independent investigation into CEO Jensen Huang, a ransomware-heavy weekend shows stolen credentials are still the front door, and Salesforce's AI coworker usage jumps twenty-one times in three months. Plus: Oracle launches an AI security mesh for agents, Adobe puts its customer experience coworker inside every major AI platform, India's stock exchange goes liquid-cooled for AI, and Patch Tuesday arrives tomorrow with end-of-support dates to watch.
+
+Chapters:
+00:05 Cold open and intro
+00:21 Rundown
+00:59 Nvidia board probes Jensen Huang
+01:45 Ransomware weekend: stolen credentials are the front door
+02:36 Salesforce AI Coworker usage jumps 21 times
+03:20 Oracle launches AI Security Mesh
+03:58 Adobe CX Coworker joins every major AI platform
+04:41 NSE India goes liquid-cooled for AI
+05:27 Orchestration, not code, is the center of gravity
+06:05 What to watch: Patch Tuesday and end of support
+06:37 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-01fdb04c-cd91-4406-b48c-85b3092d5f3f.mp3" length="3923557" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-01fdb04c-cd91-4406-b48c-85b3092d5f3f</guid>
+    <pubDate>Mon, 09 Nov 2026 11:30:47 +0000</pubDate>
+    <itunes:duration>490</itunes:duration>
+  </item>
 </channel>
 </rss>
