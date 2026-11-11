@@ -1009,5 +1009,29 @@ AI Generated</description>
     <pubDate>Tue, 10 Nov 2026 11:32:05 +0000</pubDate>
     <itunes:duration>544</itunes:duration>
   </item>
+  <item>
+    <title>Microsoft's Patch Tuesday Fixes Over a Thousand Flaws, Australia Creates an AI Safety Regulator | Daily CIO Briefing — Nov 11, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Microsoft's November Patch Tuesday fixes 1,093 vulnerabilities, including an already-exploited Outlook flaw that can leak login credentials. Australia announces an AI safety regulator with mandatory incident reporting after an OpenAI agent accessed a Medicare portal. Plus: Cisco unifies its whole portfolio under one cloud dashboard, a wave of ransomware claims traces back to stolen credentials, Gartner publishes its first scorecard for managing AI agents, and the cloud giants post record growth while investors worry about the bill.
+
+Chapters:
+00:05 Cold open and intro
+00:25 Rundown
+00:53 Microsoft Patch Tuesday
+02:00 Australia AI safety regulator
+03:23 Cisco Cloud Control
+04:19 Ransomware claims roundup
+05:17 Gartner AI Agent Management
+06:15 Cloud giants growth vs capex
+07:25 What to watch
+07:50 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-1b565f95-2755-4c07-bbb7-4b556f2eab66.mp3" length="4696741" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-1b565f95-2755-4c07-bbb7-4b556f2eab66</guid>
+    <pubDate>Wed, 11 Nov 2026 11:31:28 +0000</pubDate>
+    <itunes:duration>587</itunes:duration>
+  </item>
 </channel>
 </rss>
