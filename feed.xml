@@ -1083,5 +1083,30 @@ AI Generated</description>
     <pubDate>Fri, 13 Nov 2026 11:32:21 +0000</pubDate>
     <itunes:duration>486</itunes:duration>
   </item>
+  <item>
+    <title>Microsoft 365 Outage Drags Down OpenAI and Anthropic, IBM and Microsoft Ship 6,000 AI Agents | Daily CIO Briefing — Nov 14, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+A single failed health check took Microsoft 365 down for eighteen hours and dragged OpenAI and Anthropic with it. Plus: IBM and Microsoft launch a joint agent platform with six thousand prebuilt agents, Accenture finds sixty-four percent of CIOs are scaling AI but only seven percent have optimized it, Anthropic ships a new flagship model and launches an IPO roadshow, AI agents find cracks in legacy RSA encryption, India opens consent manager registration, and Gainsight rebuilds itself around AI agents.
+
+Chapters:
+00:05 Cold open and intro
+00:26 Rundown
+00:53 Microsoft 365 outage
+02:05 IBM and Microsoft Imagine Enterprise
+02:59 Accenture: the AI value gap
+03:56 Anthropic: new model and IPO roadshow
+04:50 DeepMind and legacy RSA encryption
+05:33 India and California privacy rules
+06:51 Gainsight rebuilds around AI agents
+07:35 What to watch
+08:05 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-5fc15301-40e8-4414-8441-5d5cc0d2dd0f.mp3" length="4900453" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-5fc15301-40e8-4414-8441-5d5cc0d2dd0f</guid>
+    <pubDate>Sat, 14 Nov 2026 11:30:52 +0000</pubDate>
+    <itunes:duration>612</itunes:duration>
+  </item>
 </channel>
 </rss>
