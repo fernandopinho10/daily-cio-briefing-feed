@@ -1108,5 +1108,53 @@ AI Generated</description>
     <pubDate>Sat, 14 Nov 2026 11:30:52 +0000</pubDate>
     <itunes:duration>612</itunes:duration>
   </item>
+  <item>
+    <title>Microsoft 365's Two-Day Outage, OpenSSH's SSHole Widens | Daily CIO Briefing — Nov 15, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Microsoft 365 suffered a global, multi-day outage caused by a network upgrade fault, not an attack. The OpenSSH flaw nicknamed SSHole is being actively exploited, with the federal patch deadline already passed. SAP shipped four perfect-ten patches alongside a big AstraZeneca cloud win. Italy fined Meta a record 805 million euros over camera-roll access. ServiceNow launched a tool to pull customers off Salesforce. And Accenture's survey says most CIOs are scaling AI, but only seven percent are optimizing it.
+
+Chapters:
+00:05 Cold open and intro
+00:17 Rundown
+00:44 Microsoft 365: the two-day outage
+01:55 OpenSSH SSHole: exploitation widens
+03:11 SAP: four perfect-ten patches
+04:04 Italy fines Meta 805 million euros
+05:07 ServiceNow's exit ramp from Salesforce
+06:02 Accenture: scaling AI, not optimizing it
+07:19 What to watch
+07:48 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-4580a0e3-0b9e-42c8-8aac-13882045a533.mp3" length="4532132" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-4580a0e3-0b9e-42c8-8aac-13882045a533</guid>
+    <pubDate>Sun, 15 Nov 2026 11:30:02 +0000</pubDate>
+    <itunes:duration>566</itunes:duration>
+  </item>
+  <item>
+    <title>Uber Drivers' Licenses Stolen Through an AI Vendor, Ransomware Wipes VMware Backups | Daily CIO Briefing — Nov 16, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+A breach at AI vendor Fireworks AI exposed Uber drivers' licenses and Notion AI chats — and the weak point was data kept for later, not live requests. Ransomware crew BlackNevas wiped a VMware estate and its backups without exploiting a single flaw, a GitHub secret stealer harvested AI keys from nearly five thousand hijacked accounts, and the N0n gang's own exposed server showed attackers now code with AI agents too. Plus: Nvidia reports earnings tomorrow under interim CEO Colette Kress, and Microsoft's preliminary report traces its 365 outage to a latent gateway defect.
+
+Chapters:
+00:05 Cold open and intro
+00:21 Rundown
+00:40 Fireworks AI breach: Uber and Notion
+02:08 BlackNevas wipes VMware estate
+02:55 wfx GitHub secret stealer
+03:39 N0n ransomware AI playbook
+04:22 Nvidia earnings eve
+05:04 Microsoft 365 preliminary report
+05:56 What to watch
+06:20 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-b460eb32-476d-4f68-bbe9-bb494194cf6b.mp3" length="3859519" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-b460eb32-476d-4f68-bbe9-bb494194cf6b</guid>
+    <pubDate>Mon, 16 Nov 2026 11:30:12 +0000</pubDate>
+    <itunes:duration>482</itunes:duration>
+  </item>
 </channel>
 </rss>
