@@ -1156,5 +1156,29 @@ AI Generated</description>
     <pubDate>Mon, 16 Nov 2026 11:30:12 +0000</pubDate>
     <itunes:duration>482</itunes:duration>
   </item>
+  <item>
+    <title>Optimizely Supply-Chain Attack Hits 178 Sites, N0n Leaks Five Million Records | Daily CIO Briefing — Nov 17, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+A supply-chain attack through Optimizely served malware to visitors of 178 major websites, the N0n ransomware group published five million identity records, and Nvidia reports earnings tonight in its first quarter under interim CEO Colette Kress. Plus: Moody's creates an enterprise CIO role to run its AI agent push, most CIOs own customer experience technology but few can see what it costs, and new Microsoft research shows AI agents can be turned into sleepers.
+
+Chapters:
+00:05 Cold open and intro
+00:27 Rundown
+00:50 Optimizely supply-chain attack hits 178 sites
+01:55 N0n ransomware publishes five million records
+02:21 Nvidia earnings tonight, first under interim CEO
+03:11 Moody's creates enterprise CIO role for AI agents
+03:57 CIOs own CX tech but lack spend visibility
+04:37 AI agents can be turned into sleepers
+05:08 What to watch
+05:22 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-22fb0ae9-182d-4c18-88b8-1def5177fbe8.mp3" length="3282993" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-22fb0ae9-182d-4c18-88b8-1def5177fbe8</guid>
+    <pubDate>Tue, 17 Nov 2026 11:30:48 +0000</pubDate>
+    <itunes:duration>410</itunes:duration>
+  </item>
 </channel>
 </rss>
