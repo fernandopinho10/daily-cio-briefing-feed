@@ -1180,5 +1180,29 @@ AI Generated</description>
     <pubDate>Tue, 17 Nov 2026 11:30:48 +0000</pubDate>
     <itunes:duration>410</itunes:duration>
   </item>
+  <item>
+    <title>Nvidia's Record Quarter, Microsoft's Copilot as the New OS for Work | Daily CIO Briefing — Nov 18, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Nvidia posts a record quarter in its first earnings report without Jensen Huang, and its new leadership promises tighter controls on chip-buyer financing. Microsoft opens Ignite 2026 with Copilot as the new operating system for work, always-on Autopilot, and a Salesforce partnership. Plus: Equinor fights an ongoing cyberattack, Russian hackers chain one cloud breach into the next, OpenAI ships its most cyber-capable model yet, and two studies show AI leaders still lack control over AI spending while the cost of a positive return keeps climbing.
+
+Chapters:
+00:05 Cold open and intro
+00:23 Rundown
+00:47 Nvidia: record quarter, tighter financing review
+02:08 Microsoft Ignite: Copilot as the new OS for work
+03:24 Equinor cyberattack
+04:05 Google: Russian hackers chain cloud breaches
+04:50 OpenAI GPT-6.2 Astra and Sol
+05:41 AI leadership gap: IBM CAIO study and Gartner ROI
+06:41 What to watch
+07:10 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-1afed2ba-7f9a-472a-8226-1df57ff02227.mp3" length="4171803" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-1afed2ba-7f9a-472a-8226-1df57ff02227</guid>
+    <pubDate>Wed, 18 Nov 2026 11:31:17 +0000</pubDate>
+    <itunes:duration>521</itunes:duration>
+  </item>
 </channel>
 </rss>
