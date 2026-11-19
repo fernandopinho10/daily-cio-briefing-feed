@@ -1204,5 +1204,30 @@ AI Generated</description>
     <pubDate>Wed, 18 Nov 2026 11:31:17 +0000</pubDate>
     <itunes:duration>521</itunes:duration>
   </item>
+  <item>
+    <title>Anthropic's Record $81 Billion IPO, Java4Shell Hits Enterprise Java | Daily CIO Briefing — Nov 19, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Anthropic goes public in the largest IPO in history at $83 a share and starts trading today as ANT, a critical Java flaw nicknamed Java4Shell puts enterprise Java estates on patch-now alert, Microsoft's own AI agent package is trojanized on PyPI, and Infoblox and Uber disclose the full reach of supply-chain breaches. Plus: Microsoft explains what really took down Microsoft 365 last week, and Gartner finds only 13% of CIOs see significant value from AI so far.
+
+Chapters:
+00:05 Cold open and intro
+00:24 Rundown
+00:50 Anthropic: record IPO
+01:58 Java4Shell OpenJDK flaw
+02:37 Microsoft PyPI agent-framework trojan
+03:11 Infoblox breach via vendor
+03:50 Uber driver breach total
+04:31 Microsoft 365 outage root cause
+05:24 Gartner: AI value gap
+06:08 What to watch
+06:25 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-1c75c906-51a9-4cd1-aaf4-bc1c171a447a.mp3" length="3843504" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-1c75c906-51a9-4cd1-aaf4-bc1c171a447a</guid>
+    <pubDate>Thu, 19 Nov 2026 11:30:43 +0000</pubDate>
+    <itunes:duration>480</itunes:duration>
+  </item>
 </channel>
 </rss>
