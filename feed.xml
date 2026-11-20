@@ -1229,5 +1229,30 @@ AI Generated</description>
     <pubDate>Thu, 19 Nov 2026 11:30:43 +0000</pubDate>
     <itunes:duration>480</itunes:duration>
   </item>
+  <item>
+    <title>Anthropic's Record IPO Debut, Visa and Mastercard Data Leak | Daily CIO Briefing — Nov 20, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Anthropic makes history with the largest IPO ever, raising $81.3 billion at a valuation near $1.5 trillion. Visa, Mastercard, and JPMorgan see customer data leaked through a third-party provider, and Nvidia investigates a ransomware claim aimed at its own supply chain. Plus: the November outage cluster gets its official explanation, AI agents compress intrusions into hours, and two new studies say enterprises are rethinking the cloud while AI spending heads past $4 trillion.
+
+Chapters:
+00:05 Cold open and intro
+00:24 Rundown
+00:52 Anthropic's record IPO
+02:00 Visa, Mastercard and JPMorgan data leak
+03:00 Nvidia ransomware claim
+03:47 November outage cluster
+04:48 AI agents on the attack
+05:29 Cloud repatriation
+06:07 AI spending forecast
+06:49 What to watch
+07:21 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-5912651b-bc08-458c-bd4f-3e31fbcdadaa.mp3" length="4444052" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-5912651b-bc08-458c-bd4f-3e31fbcdadaa</guid>
+    <pubDate>Fri, 20 Nov 2026 11:30:43 +0000</pubDate>
+    <itunes:duration>555</itunes:duration>
+  </item>
 </channel>
 </rss>
