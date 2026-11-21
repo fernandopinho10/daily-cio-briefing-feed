@@ -1254,5 +1254,29 @@ AI Generated</description>
     <pubDate>Fri, 20 Nov 2026 11:30:43 +0000</pubDate>
     <itunes:duration>555</itunes:duration>
   </item>
+  <item>
+    <title>FBI's Crime Database Hacked, Qubole Named in Bank Data Leak | Daily CIO Briefing — Nov 21, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+The FBI is investigating a suspected breach of its national crime database, and the vendor behind the Visa, Mastercard and JPMorgan data leak finally has a name. Plus: Microsoft's final report on the day-long Microsoft 365 outage, the GAO's sixteen options for governing AI in cybersecurity, a survey finding most companies have already had an AI agent credential incident, and a reality check on enterprise AI spending.
+
+Chapters:
+00:05 Cold open and intro
+00:21 Rundown
+00:42 FBI crime database breach
+01:26 Qubole named in bank data leak
+02:24 Microsoft 365 final outage report
+03:16 GAO on AI and cybersecurity
+03:58 AI agent credential incidents
+04:34 AI spend reality check
+05:19 What to watch
+05:40 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-1a802e5b-baa1-4604-b289-178a5919c577.mp3" length="3242956" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-1a802e5b-baa1-4604-b289-178a5919c577</guid>
+    <pubDate>Sat, 21 Nov 2026 11:29:42 +0000</pubDate>
+    <itunes:duration>405</itunes:duration>
+  </item>
 </channel>
 </rss>
