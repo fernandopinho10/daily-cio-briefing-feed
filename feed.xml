@@ -1303,5 +1303,29 @@ AI Generated</description>
     <pubDate>Sun, 22 Nov 2026 11:30:31 +0000</pubDate>
     <itunes:duration>472</itunes:duration>
   </item>
+  <item>
+    <title>Ransomware Gang Lists Nvidia, Five Outages in Six Days | Daily CIO Briefing — Nov 23, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+A ransomware group lists Nvidia on its leak site with a ten-day countdown and no proof, while five major outages in six days show that ordinary change, not attackers, is the resilience risk. Plus: eighteen more PHP flaws and the end of PHP 8.2 support, an AI coding agent that leaked its own credentials, frontier AI going multi-cloud, and a sovereign AI audit finding most enterprises have never tested their cloud exit plan.
+
+Chapters:
+00:05 Cold open and intro
+00:29 Rundown
+00:55 Nvidia: ransomware group lists Nvidia
+01:50 Five outages in six days
+02:54 PHP flaws aftershock
+03:48 Together AI agent leak
+04:31 Frontier AI goes multi-cloud
+05:11 Sovereign AI audit
+05:57 What to watch
+06:16 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-d1050a8b-cd83-456a-8ae1-d9c1852d3b47.mp3" length="3571256" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-d1050a8b-cd83-456a-8ae1-d9c1852d3b47</guid>
+    <pubDate>Mon, 23 Nov 2026 11:30:27 +0000</pubDate>
+    <itunes:duration>446</itunes:duration>
+  </item>
 </channel>
 </rss>
