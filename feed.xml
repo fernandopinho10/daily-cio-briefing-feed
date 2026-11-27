@@ -1402,5 +1402,29 @@ AI Generated</description>
     <pubDate>Thu, 26 Nov 2026 11:32:00 +0000</pubDate>
     <itunes:duration>570</itunes:duration>
   </item>
+  <item>
+    <title>Nvidia Freezes AI Server Shipments to Southeast Asia, VMware vCenter Zero-Day Exploited Since September | Daily CIO Briefing — Nov 27, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Nvidia has frozen AI server shipments to four Southeast Asian countries under new US export controls, and a critical VMware vCenter zero-day exploited since September now has public attack code. Plus: Turnitin discloses a cyberattack affecting 71 million students, AI agents are finding security flaws in minutes, most AI pilots are still stalling on data readiness, and AI spending is headed for four trillion dollars in 2027.
+
+Chapters:
+00:05 Cold open and intro
+00:19 Rundown
+00:46 Nvidia freezes AI server shipments
+01:37 VMware vCenter zero-day
+02:32 Turnitin breach
+03:16 AI agents find flaws
+04:06 Why AI pilots stall
+04:54 AI spending heads for four trillion
+05:46 What to watch
+06:24 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-4b19d212-2779-4b7a-9a06-b8653b6969fd.mp3" length="3899555" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-4b19d212-2779-4b7a-9a06-b8653b6969fd</guid>
+    <pubDate>Fri, 27 Nov 2026 11:31:20 +0000</pubDate>
+    <itunes:duration>487</itunes:duration>
+  </item>
 </channel>
 </rss>
