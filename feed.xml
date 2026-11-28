@@ -1426,5 +1426,30 @@ AI Generated</description>
     <pubDate>Fri, 27 Nov 2026 11:31:20 +0000</pubDate>
     <itunes:duration>487</itunes:duration>
   </item>
+  <item>
+    <title>Four U.S. Agencies Breached, SAP Hit by AI-Driven Attack | Daily CIO Briefing — Nov 28, 2026</title>
+    <description>What every CIO needs to know, in about seven minutes. Hosted by Carol.
+
+Four branches of the United States government were breached in a single day, with an AI hacking tool in the mix and the Treasury CIO drawing fire for a side project. SAP confirmed an attack that used AI agents to tamper with its source code, 1Password traced a breach to a hijacked employee GitHub account, and a critical Kemp LoadMaster flaw is being actively exploited. Plus: attackers were caught reading prompts inside AI inference providers despite zero-retention promises, OpenAI went multi-cloud on Google Cloud and AWS, and all three big clouds shipped agent governance controls in a single week.
+
+Chapters:
+00:05 Cold open and intro
+00:14 Rundown
+00:58 Four US government agencies breached
+01:59 SAP cyberattack and AI agents in the pipeline
+02:54 1Password breach via hijacked GitHub account
+03:39 Kemp LoadMaster actively exploited
+04:12 AI inference providers leaked prompts
+05:07 OpenAI goes multi-cloud
+05:57 The big three clouds ship agent rulebooks
+06:41 What to watch
+07:04 Recap and sign-off
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/946902605166768/ecc9d59c-167d-43bb-b794-616ceb0896e7/ep-69977fe3-98bc-4f5b-9623-eddf1afd53b4.mp3" length="4243869" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-69977fe3-98bc-4f5b-9623-eddf1afd53b4</guid>
+    <pubDate>Sat, 28 Nov 2026 11:30:29 +0000</pubDate>
+    <itunes:duration>530</itunes:duration>
+  </item>
 </channel>
 </rss>
